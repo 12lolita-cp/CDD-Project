@@ -1,1 +1,2 @@
 version 2.0 in main and only version in feature-version branch
+Release notes updated in main branch
