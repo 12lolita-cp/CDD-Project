@@ -1,2 +1,7 @@
+
 version 2.0 in main and only version in feature-version branch
 Release notes updated in main branch
+
+version is changed to version 2.0 in feature-version branch
+Feature work in progress- Added new line in feature-version branch
+
